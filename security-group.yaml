@@ -1,0 +1,4 @@
+name: security-group
+rules:
+  ssh:
+  http:
